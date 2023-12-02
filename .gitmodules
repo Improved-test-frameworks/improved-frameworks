@@ -4,3 +4,6 @@
 [submodule "improved-lighthouse"]
 	path = improved-lighthouse
 	url = https://github.com/Improved-test-frameworks/improved-lighthouse.git
+[submodule "improved-wdio"]
+	path = improved-wdio
+	url = https://github.com/Improved-test-frameworks/improved-wdio.git
