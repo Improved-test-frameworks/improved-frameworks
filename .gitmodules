@@ -1,0 +1,3 @@
+[submodule "improved-junit-5"]
+	path = improved-junit-5
+	url = https://github.com/Improved-test-frameworks/improved-junit-5.git
