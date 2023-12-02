@@ -9,3 +9,4 @@ The purpose of these improved frameworks is to make writing tests a lot easier f
 - JUnit 5
 - WDIO
 - Lighthouse
+- Postman
